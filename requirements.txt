@@ -1,0 +1,7 @@
+numpy
+pandas
+beautifulsoup4
+scikit-learn
+sentence-transformers
+torch
+gradio
